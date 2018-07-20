@@ -7,7 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class BasicAnnotation2Test {
+public class BasicAnnotationTestClass {
 
     // Run once, e.g. Database connection, connection pool
     @BeforeClass

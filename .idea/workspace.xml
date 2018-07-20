@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1db4fc60-bc0f-453d-a640-b7a7504f485f" name="Default" comment="" />
+    <list default="true" id="1db4fc60-bc0f-453d-a640-b7a7504f485f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestBetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotation2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tdd-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/tdd-1.0.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,38 +21,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="ManualUnitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example1/ManualUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClosestUsers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/mocks/ClosestUsers.java">
+      <file leaf-file-name="AutoUnitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example1/AutoUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClosestUserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/mocks/ClosestUserService.java">
+      <file leaf-file-name="BasicAnnotationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mock_TimelineTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/Mock_TimelineTest.java">
+      <file leaf-file-name="BasicAnnotationTestBetter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestBetter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicAnnotationTestClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,6 +108,9 @@
       <replace>String</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -84,7 +124,6 @@
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest1.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/AlgebraTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/BasicAnnotation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotation2Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/TimelineTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/dummies/ItemProvider.java" />
@@ -104,6 +143,9 @@
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/mocks/ClosestUsers.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/mocks/ClosestUserService.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Mock_TimelineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestBetter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestClass.java" />
       </list>
     </option>
   </component>
@@ -114,17 +156,19 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,6 +209,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shekhar" type="462c0819:PsiDirectoryNode" />
+              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shekhar" type="462c0819:PsiDirectoryNode" />
               <item name="example1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -193,6 +246,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,11 +278,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Mock_TimelineTest">
+  <component name="RunManager" selected="JUnit.BasicAnnotationTestClass">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AlgebraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicAnnotationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
@@ -239,7 +293,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="shekhar.tdd" />
-      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.AlgebraTest" />
+      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.BasicAnnotationTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -251,7 +305,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Dummy_TimelineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicAnnotationTestBetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
@@ -262,7 +316,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="shekhar.tdd" />
-      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.Dummy_TimelineTest" />
+      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.BasicAnnotationTestBetter" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -274,7 +328,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Fake_TimelineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicAnnotationTestClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
@@ -285,7 +339,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="shekhar.tdd" />
-      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.Fake_TimelineTest" />
+      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.BasicAnnotationTestClass" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -297,7 +351,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Mock_TimelineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicAnnotationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
@@ -308,9 +362,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="shekhar.tdd" />
-      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.Mock_TimelineTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.BasicAnnotationTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -320,7 +374,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Stub_TimelineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicAnnotationTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tdd" />
       <extension name="coverage">
         <pattern>
@@ -331,9 +385,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="shekhar.tdd" />
-      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.Stub_TimelineTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="shekhar.tdd.BasicAnnotationTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -382,19 +436,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.AlgebraTest" />
-      <item itemvalue="JUnit.Listing_1_Dummy_TimelineTest" />
-      <item itemvalue="JUnit.Fake_TimelineTest" />
-      <item itemvalue="JUnit.Stub_TimelineTest" />
-      <item itemvalue="JUnit.Mock_TimelineTest" />
+      <item itemvalue="JUnit.BasicAnnotationTest" />
+      <item itemvalue="JUnit.BasicAnnotationTest.test" />
+      <item itemvalue="JUnit.BasicAnnotationTest.test2" />
+      <item itemvalue="JUnit.BasicAnnotationTestBetter" />
+      <item itemvalue="JUnit.BasicAnnotationTestClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Mock_TimelineTest" />
-        <item itemvalue="JUnit.Stub_TimelineTest" />
-        <item itemvalue="JUnit.Fake_TimelineTest" />
-        <item itemvalue="JUnit.Listing_1_Dummy_TimelineTest" />
-        <item itemvalue="JUnit.AlgebraTest" />
+        <item itemvalue="JUnit.BasicAnnotationTestClass" />
+        <item itemvalue="JUnit.BasicAnnotationTest" />
+        <item itemvalue="JUnit.BasicAnnotationTestBetter" />
+        <item itemvalue="JUnit.BasicAnnotationTest.test2" />
+        <item itemvalue="JUnit.BasicAnnotationTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -409,51 +463,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Fake_TimelineTest - 2018.07.13 at 02h 30m 18s.xml">
-      <configuration name="Fake_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest_test - 2018.07.20 at 10h 29m 15s.xml">
+      <configuration name="BasicAnnotationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Fake_TimelineTest - 2018.07.13 at 02h 30m 59s.xml">
-      <configuration name="Fake_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest_test2 - 2018.07.20 at 10h 29m 36s.xml">
+      <configuration name="BasicAnnotationTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Stub_TimelineTest - 2018.07.13 at 02h 47m 55s.xml">
-      <configuration name="Stub_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest_test2 - 2018.07.20 at 10h 29m 44s.xml">
+      <configuration name="BasicAnnotationTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Stub_TimelineTest - 2018.07.13 at 02h 48m 20s.xml">
-      <configuration name="Stub_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest - 2018.07.20 at 10h 29m 51s.xml">
+      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Stub_TimelineTest - 2018.07.13 at 02h 48m 41s.xml">
-      <configuration name="Stub_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest - 2018.07.20 at 10h 33m 12s.xml">
+      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Mock_TimelineTest - 2018.07.13 at 03h 16m 34s.xml">
-      <configuration name="Mock_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest - 2018.07.20 at 10h 35m 15s.xml">
+      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Mock_TimelineTest - 2018.07.13 at 03h 26m 19s.xml">
-      <configuration name="Mock_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest - 2018.07.20 at 10h 35m 41s.xml">
+      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Mock_TimelineTest - 2018.07.13 at 03h 26m 47s.xml">
-      <configuration name="Mock_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTestBetter - 2018.07.20 at 10h 38m 23s.xml">
+      <configuration name="BasicAnnotationTestBetter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Mock_TimelineTest - 2018.07.13 at 03h 27m 24s.xml">
-      <configuration name="Mock_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTest - 2018.07.20 at 10h 39m 23s.xml">
+      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Mock_TimelineTest - 2018.07.13 at 03h 28m 05s.xml">
-      <configuration name="Mock_TimelineTest" configurationId="JUnit" />
+    <history-entry file="BasicAnnotationTestClass - 2018.07.20 at 10h 40m 15s.xml">
+      <configuration name="BasicAnnotationTestClass" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.27988338" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.27988338" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4853147" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34965035" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32816902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2274678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -461,8 +515,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32816902" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -476,6 +531,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/mocks/ClosestUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/mocks/ClosestUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/Mock_TimelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
@@ -484,46 +570,8 @@
     <entry file="file://$PROJECT_DIR$/tdd.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example2/AnnotationInJunit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example1/AutoUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example1/ManualUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example2/AnnotationInJunit.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/BasicAnnotation2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -572,33 +620,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/fakes/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotation2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="2" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/fakes/Location.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/dummies/UserLocation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -688,21 +710,79 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/mocks/ClosestUsers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/mocks/ClosestUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/Mock_TimelineTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example1/ManualUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/unit/example1/AutoUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestBetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
