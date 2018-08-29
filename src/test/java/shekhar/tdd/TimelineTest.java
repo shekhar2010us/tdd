@@ -42,16 +42,17 @@ public class TimelineTest {
     // Exercise 3
     @Test
     public void initialState() {
-        assertTrue( timeline.getFetchCount() > 0 );
+        System.out.println("init: " + timeline.getFetchCount()); // prints 10
+        //assertTrue( timeline.getFetchCount() > 0 );
+        assertTrue( timeline.getFetchCount() == 10 );
     }
 
     // Exercise 4
     @Test
     public void setFetchCountExceedsUpperBound() {
         int originalFetchCount = timeline.getFetchCount();
-
+        System.out.println("originalFetchCount: " + originalFetchCount );
         timeline.setFetchCount( Timeline.FETCH_COUNT_UPPER_BOUND + 1 );
-
         assertEquals( originalFetchCount, timeline.getFetchCount() );
     }
 
