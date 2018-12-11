@@ -2,11 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1db4fc60-bc0f-453d-a640-b7a7504f485f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/IntegrationTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/shekhar/tdd/TimelineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/TimelineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/Algebra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/Algebra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/BasicAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/BasicAnnotation2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/BasicAnnotation2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/Timeline.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/Timeline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/dummies/UserLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/dummies/UserLocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/fakes/LocationDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/fakes/LocationDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/mocks/ClosestUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/mocks/ClosestUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/tdd/stubs/DeviceLocationInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/tdd/stubs/DeviceLocationInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/unit/example1/AutoUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/unit/example1/AutoUnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shekhar/unit/example1/ManualUnitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shekhar/unit/example1/ManualUnitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tdd-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/AlgebraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/AlgebraTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/BasicAnnotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/BasicAnnotationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/BasicAnnotationTestBetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/BasicAnnotationTestBetter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/BasicAnnotationTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/BasicAnnotationTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Dummy_TimelineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Dummy_TimelineTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Fake_TimelineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Fake_TimelineTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/IntegrationTestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/IntegrationTestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Mock_TimelineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Mock_TimelineTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Stub_TimelineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/Stub_TimelineTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/TimelineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/TimelineTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/dummies/UserLocationDummy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/dummies/UserLocationDummy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/fakes/LocationDatabaseFake.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/fakes/LocationDatabaseFake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/mocks/ClosestUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/mocks/ClosestUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/stubs/DeviceLocationInfoStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/shekhar/tdd/stubs/DeviceLocationInfoStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tdd.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,46 +76,46 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-277532016">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/IntegrationTestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="150">
+              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/MyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,7 +162,6 @@
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/dummies/UserLocation.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Listing_1_Dummy_TimelineTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/fakes/Location.java" />
-        <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/fakes/LocationDatabase.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/fakes/LocationDatabaseFake.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Fake_TimelineTest.java" />
@@ -141,7 +169,6 @@
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/stubs/DeviceLocationInfo.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/stubs/DeviceLocationInfoStub.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Stub_TimelineTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/shekhar/tdd/mocks/ClosestUsers.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/mocks/ClosestUserService.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java" />
@@ -151,6 +178,8 @@
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Mock_TimelineTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/IntegrationTestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/MyTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java" />
       </list>
     </option>
   </component>
@@ -174,8 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +240,25 @@
               <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
               <item name="tdd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shekhar" type="462c0819:PsiDirectoryNode" />
+              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shekhar" type="462c0819:PsiDirectoryNode" />
+              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="dummies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,6 +280,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,9 +289,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -267,6 +315,14 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.MyTest">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -354,14 +410,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.BasicAnnotationTest" />
       <item itemvalue="JUnit.BasicAnnotationTestBetter" />
@@ -422,13 +470,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23175965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32816902" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36568213" />
@@ -527,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd/mocks/ClosestUsers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -583,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/mocks/ClosestUserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -611,20 +646,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/AlgebraTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/BasicAnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -634,10 +666,6 @@
           <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -645,14 +673,27 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
             <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd/Dummy_TimelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -697,7 +738,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>9</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -722,7 +763,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.json:json:20180130</last-edited>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
