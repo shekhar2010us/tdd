@@ -15,7 +15,11 @@ public class CustomList<E> implements List<E> {
 
     @Override
     public boolean isEmpty() {
-        return false;
+        if (internal.length != 0) {
+            return false;
+        } else {
+            return true;
+        }
     }
 
     @Override
@@ -40,6 +44,7 @@ public class CustomList<E> implements List<E> {
 
     @Override
     public boolean add(E e) {
+        internal = new Object[] { e };
         return false;
     }
 

@@ -130,6 +130,7 @@ We’ll go through these TDD cycles for some methods of the List interface, star
 
 The <b>isEmpty</b> method is probably the most straightforward method defined in the List interface. Here’s our starting implementation.
 ```code
+---- This is already in our class
 @Override
     public boolean isEmpty() {return false;}
 ```
@@ -137,7 +138,9 @@ The <b>isEmpty</b> method is probably the most straightforward method defined in
 This initial method definition is enough to compile. The body of this method will be “forced” to improve when more and more tests are added.
 
 #### 4.1 The First Cycle
-Let’s write the first test case which makes sure that the isEmpty method returns true when the list doesn’t contain any element:
+Let’s write the first test case which makes sure that the isEmpty method returns true when the list doesn’t contain any element.
+
+Let's write below code in our <b>CustomListTest </b> Class
 
 ```
 @Test
@@ -147,11 +150,69 @@ public void givenEmptyList_whenIsEmpty_thenTrueIsReturned() {
 }
 ```
 
-The given test fails since the isEmpty method always returns false. We can make it pass just by flipping the return value:
+> The given test fails since the <b>isEmpty</b> method always returns false. We can make it pass just by flipping the return value:
 
+Let's change the isEmpty code in our <b>CustomList </b> Class
 ```
 @Override
 public boolean isEmpty() {
-    return true;
+    return true;    <---- this is changed
 }
 ```
+
+> Now the test will pass
+
+#### 4.2 The Second Cycle
+To confirm that the isEmpty method returns false when the list isn’t empty, we need to add at least one element:
+
+Let's add this code to our <b>CustomListTest</b> Class.
+
+```code
+@Test
+public void givenNonEmptyList_whenIsEmpty_thenFalseIsReturned() {
+    List<Object> list = new CustomList<>();
+    Object obj = new Object();
+    list.add(obj);
+    assertFalse(list.isEmpty());
+}
+```
+
+An implementation of the add method is now required. Here’s the add method we start with:
+
+```code
+---- This is the starting code, we will change it in the next code block
+@Override
+public boolean add(E e) {
+    return false;
+}
+```
+
+This method implementation doesn’t work as no changes to the internal data structure of the list are made. Let’s update it to store the added element:
+
+Let's add the below code to our <b>CustomList</b> Class.
+
+```code
+@Override
+public boolean add(E e) {
+    internal = new Object[] { e };
+    return false;
+}
+```
+
+Our test still fails since the <b>isEmpty</b> method hasn’t been enhanced. Let’s do that:
+
+Let's add the below code to our <b>CustomList</b> Class.
+
+```code
+@Override
+public boolean isEmpty() {
+    if (internal.length != 0) {
+        return false;
+    } else {
+        return true;
+    }
+}
+```
+The non-empty test passes at this point.
+> Run the test and verify
+

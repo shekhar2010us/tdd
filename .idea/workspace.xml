@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1db4fc60-bc0f-453d-a640-b7a7504f485f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/list_impl.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.AlgebraTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.AlgebraTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.BasicAnnotationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.BasicAnnotationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.Mock_TimelineTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.Mock_TimelineTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.MyTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.MyTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.TimelineTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-shekhar.tdd.TimelineTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.AlgebraTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.AlgebraTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.Dummy_TimelineTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.Dummy_TimelineTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.Mock_TimelineTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.Mock_TimelineTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.MyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.MyTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.TimelineTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/shekhar.tdd.TimelineTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tdd-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/tdd-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_impl.md" beforeDir="false" afterPath="$PROJECT_DIR$/list_impl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -81,15 +68,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="19" />
-          <entry key="md" value="173" />
+          <entry key="java" value="59" />
+          <entry key="md" value="631" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19" />
-          <entry key="Markdown" value="173" />
+          <entry key="JAVA" value="59" />
+          <entry key="Markdown" value="631" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -100,13 +87,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#264#265#0" expanded="true" />
                 <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#417#418#0" expanded="true" />
                 <element signature="e#445#446#0" expanded="true" />
                 <element signature="e#496#497#0" expanded="true" />
@@ -115,8 +101,6 @@
                 <element signature="e#606#607#0" expanded="true" />
                 <element signature="e#657#658#0" expanded="true" />
                 <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
                 <element signature="e#810#811#0" expanded="true" />
                 <element signature="e#838#839#0" expanded="true" />
                 <element signature="e#903#904#0" expanded="true" />
@@ -153,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="2" selection-end-line="24" />
+            <state relative-caret-position="315">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,8 +150,8 @@
         <entry file="file://$PROJECT_DIR$/list_impl.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+              <first_editor relative-caret-position="617">
+                <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
               </first_editor>
               <second_editor />
             </state>
@@ -188,6 +172,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Item</find>
+      <find>public boolean add(E element) {</find>
+      <find>add</find>
     </findStrings>
     <replaceStrings>
       <replace>String</replace>
@@ -247,7 +233,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="44" />
+    <option name="y" value="25" />
     <option name="width" value="1440" />
     <option name="height" value="807" />
   </component>
@@ -474,15 +461,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TimelineTest - 2018.07.20 at 11h 10m 25s.xml">
-      <configuration name="TimelineTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TimelineTest - 2018.07.20 at 11h 11m 00s.xml">
-      <configuration name="TimelineTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAnnotationTest - 2018.08.29 at 11h 11m 35s.xml">
-      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyTest - 2018.08.29 at 11h 14m 56s.xml">
       <configuration name="MyTest" configurationId="JUnit" />
     </history-entry>
@@ -504,12 +482,21 @@
     <history-entry file="CustomListTest - 2018.12.11 at 23h 27m 03s.xml">
       <configuration name="CustomListTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CustomListTest - 2018.12.11 at 23h 41m 06s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.11 at 23h 42m 20s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.11 at 23h 48m 03s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <frame x="44" y="25" width="1440" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09227468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -747,15 +734,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="270">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#264#265#0" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
@@ -764,8 +760,6 @@
             <element signature="e#606#607#0" expanded="true" />
             <element signature="e#657#658#0" expanded="true" />
             <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
             <element signature="e#810#811#0" expanded="true" />
             <element signature="e#838#839#0" expanded="true" />
             <element signature="e#903#904#0" expanded="true" />
@@ -798,21 +792,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="2" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list_impl.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="106" column="1" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+          <first_editor relative-caret-position="617">
+            <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
           </first_editor>
           <second_editor />
         </state>
