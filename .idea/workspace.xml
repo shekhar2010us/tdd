@@ -68,15 +68,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="59" />
-          <entry key="md" value="631" />
+          <entry key="java" value="77" />
+          <entry key="md" value="933" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="59" />
-          <entry key="Markdown" value="631" />
+          <entry key="JAVA" value="77" />
+          <entry key="Markdown" value="933" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -87,12 +87,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
                 <element signature="e#417#418#0" expanded="true" />
                 <element signature="e#445#446#0" expanded="true" />
                 <element signature="e#496#497#0" expanded="true" />
@@ -113,8 +114,8 @@
                 <element signature="e#1229#1230#0" expanded="true" />
                 <element signature="e#1292#1293#0" expanded="true" />
                 <element signature="e#1320#1321#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1481#1482#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
                 <element signature="e#1496#1497#0" expanded="true" />
                 <element signature="e#1523#1524#0" expanded="true" />
                 <element signature="e#1637#1638#0" expanded="true" />
@@ -137,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="885">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,8 +151,8 @@
         <entry file="file://$PROJECT_DIR$/list_impl.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="617">
-                <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+              <first_editor relative-caret-position="602">
+                <caret line="427" lean-forward="true" selection-start-line="427" selection-end-line="427" />
               </first_editor>
               <second_editor />
             </state>
@@ -173,6 +174,8 @@
     <findStrings>
       <find>Item</find>
       <find>public boolean add(E element) {</find>
+      <find>size</find>
+      <find>get</find>
       <find>add</find>
     </findStrings>
     <replaceStrings>
@@ -461,27 +464,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyTest - 2018.08.29 at 11h 14m 56s.xml">
-      <configuration name="MyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest - 2018.12.11 at 12h 22m 02s.xml">
-      <configuration name="MyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAnnotationTest - 2018.12.11 at 12h 25m 26s.xml">
-      <configuration name="BasicAnnotationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAnnotationTestClass - 2018.12.11 at 12h 39m 15s.xml">
-      <configuration name="BasicAnnotationTestClass" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomListTest_givenEmptyList_whenIsEmpty_thenTrueIsReturned - 2018.12.11 at 18h 13m 55s.xml">
-      <configuration name="CustomListTest.givenEmptyList_whenIsEmpty_thenTrueIsReturned" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomListTest - 2018.12.11 at 18h 15m 08s.xml">
-      <configuration name="CustomListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomListTest - 2018.12.11 at 23h 27m 03s.xml">
-      <configuration name="CustomListTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CustomListTest - 2018.12.11 at 23h 41m 06s.xml">
       <configuration name="CustomListTest" configurationId="JUnit" />
     </history-entry>
@@ -489,6 +471,27 @@
       <configuration name="CustomListTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CustomListTest - 2018.12.11 at 23h 48m 03s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.11 at 23h 50m 46s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.11 at 23h 58m 45s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.12 at 00h 00m 02s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.12 at 00h 03m 20s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.12 at 00h 04m 27s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.12 at 00h 04m 35s.xml">
+      <configuration name="CustomListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomListTest - 2018.12.12 at 00h 06m 11s.xml">
       <configuration name="CustomListTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -734,24 +737,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/shekhar/tdd_list_impl/CustomList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#496#497#0" expanded="true" />
@@ -772,8 +766,8 @@
             <element signature="e#1229#1230#0" expanded="true" />
             <element signature="e#1292#1293#0" expanded="true" />
             <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
             <element signature="e#1496#1497#0" expanded="true" />
             <element signature="e#1523#1524#0" expanded="true" />
             <element signature="e#1637#1638#0" expanded="true" />
@@ -792,11 +786,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/shekhar/tdd_list_impl/CustomListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/list_impl.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="617">
-            <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+          <first_editor relative-caret-position="602">
+            <caret line="427" lean-forward="true" selection-start-line="427" selection-end-line="427" />
           </first_editor>
           <second_editor />
         </state>

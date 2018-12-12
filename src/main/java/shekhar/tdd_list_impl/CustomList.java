@@ -1,25 +1,18 @@
 package shekhar.tdd_list_impl;
 
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
+import java.util.*;
 
 public class CustomList<E> implements List<E> {
     private Object[] internal = {};
 
     @Override
     public int size() {
-        return 0;
+        return internal.length;
     }
 
     @Override
     public boolean isEmpty() {
-        if (internal.length != 0) {
-            return false;
-        } else {
-            return true;
-        }
+        return internal.length == 0;
     }
 
     @Override
@@ -44,8 +37,10 @@ public class CustomList<E> implements List<E> {
 
     @Override
     public boolean add(E e) {
-        internal = new Object[] { e };
-        return false;
+        Object[] temp = Arrays.copyOf(internal, internal.length + 1);
+        temp[internal.length] = e;
+        internal = temp;
+        return true;
     }
 
     @Override
@@ -85,7 +80,7 @@ public class CustomList<E> implements List<E> {
 
     @Override
     public E get(int index) {
-        return null;
+        return (E) internal[index];
     }
 
     @Override
