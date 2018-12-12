@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="shekhar.tdd.BasicAnnotationTest" time="0.002" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="shekhar.tdd_list_impl.CustomListTest" time="0.006" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib"/>
@@ -64,6 +64,10 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="shekhar.tdd.BasicAnnotationTest" name="test" time="0.001"/>
-  <testcase classname="shekhar.tdd.BasicAnnotationTest" name="test2" time="0.001"/>
+  <testcase classname="shekhar.tdd_list_impl.CustomListTest" name="givenListWithAnElement_whenAnotherIsAdded_thenGetReturnsBoth" time="0.002"/>
+  <testcase classname="shekhar.tdd_list_impl.CustomListTest" name="givenListWithAnElement_whenGet_thenThatElementIsReturned" time="0"/>
+  <testcase classname="shekhar.tdd_list_impl.CustomListTest" name="givenEmptyList_whenElementIsAdded_thenGetReturnsThatElement" time="0"/>
+  <testcase classname="shekhar.tdd_list_impl.CustomListTest" name="givenEmptyList_whenIsEmpty_thenTrueIsReturned" time="0"/>
+  <testcase classname="shekhar.tdd_list_impl.CustomListTest" name="givenListWithAnElement_whenSize_thenOneIsReturned" time="0.003"/>
+  <testcase classname="shekhar.tdd_list_impl.CustomListTest" name="givenNonEmptyList_whenIsEmpty_thenFalseIsReturned" time="0.001"/>
 </testsuite>

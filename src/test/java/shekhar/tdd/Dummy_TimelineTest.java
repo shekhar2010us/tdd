@@ -6,8 +6,8 @@ import shekhar.tdd.dummies.UserLocationDummy;
 public class Dummy_TimelineTest {
     @Test
     public void initializeWithDummyUserLocation() {
-//        UserLocationDummy userLocationDummy = new UserLocationDummy();
-//        Timeline timeline = new Timeline(userLocationDummy);
+        UserLocationDummy userLocationDummy = new UserLocationDummy();
+        Timeline timeline = new Timeline(userLocationDummy);
 //        userLocationDummy.getCurrentLocation();
     }
 }
