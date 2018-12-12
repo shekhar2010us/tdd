@@ -64,6 +64,6 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="shekhar.tdd.BasicAnnotationTest" name="test" time="0.007"/>
-  <testcase classname="shekhar.tdd.BasicAnnotationTest" name="test2" time="0.001"/>
+  <testcase classname="shekhar.tdd.BasicAnnotationTest" name="test" time="0.004"/>
+  <testcase classname="shekhar.tdd.BasicAnnotationTest" name="test2" time="0.004"/>
 </testsuite>
