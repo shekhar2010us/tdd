@@ -1,3 +1,5 @@
+// TODO - The method "singleMethod" is doing two things, can we seperate them down
+
 package shekhar.refactor.before;
 
 import java.util.HashMap;

@@ -1,3 +1,5 @@
+// TODO - same method in the two implemented classes, can we have it in the base class?
+
 package shekhar.refactor.before;
 
 public class Employee {}
