@@ -75,7 +75,7 @@ public class CustomList<E> implements List<E> {
 
     @Override
     public void clear() {
-
+        internal = new Object[0];
     }
 
     @Override
